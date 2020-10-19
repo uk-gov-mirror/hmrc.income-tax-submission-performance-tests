@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package uk.gov.hmrc.perftests.istass
+package uk.gov.hmrc.perftests.itsass
 
 import io.gatling.http.Predef._
 import io.gatling.core.Predef._
